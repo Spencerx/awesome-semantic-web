@@ -815,6 +815,7 @@ OS - OpenSource
 - [eye](https://github.com/josd/eye) - Euler Yet another proof Engine.
 - [Sequoia](https://github.com/andrewdbate/Sequoia) - Sequoia is a consequence-based OWL 2 DL Reasoner supporting multithreaded reasoning.
 - [konclude](http://www.derivo.de/en/produkte/konclude.html) - Konclude is a high-performance reasoner for large and expressive ontologies.
+- [rdf-reasoner-konclude](https://github.com/ThHanke/rdf-reasoner-konclude) - Konclude OWL-DL tableau reasoning kernel compiled to WebAssembly. Runs in browsers and Node.js; async TypeScript API with RDF.js Quad types and N3.js Store integration.
 - [owlproofs](https://github.com/klinovp/owlproofs) - Extension to the OWL API to request proofs of entailments from the reasoner.
 
 ## Books
