@@ -1010,6 +1010,7 @@ OS - OpenSource
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
 - [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files.
 - [pyjelly](https://github.com/Jelly-RDF/pyjelly) – Python implementation of the high-performance [Jelly binary format](https://w3id.org/jelly), supporting rdflib.
+- [open-kgo](https://github.com/mloda-ai/open-kgo) - Unified Python API over nine knowledge-graph backend families (including RDF/SPARQL) that validates each traversal against a declared ontology and rejects semantically invalid hops.
 
 ### R
 
