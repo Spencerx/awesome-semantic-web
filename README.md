@@ -187,7 +187,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 
 | Format  | Description | Mime-type |
 | :--- | :--- | :---: |
-| [Jelly](https://jelly-rdf.github.io/dev/ | a high-performance binary serialization format and streaming protocol for RDF knowledge graphs. | `application/x-jelly-rdf`, `application/x-jelly-rdf-patch
+| [Jelly](https://jelly-rdf.github.io/dev/) | a high-performance binary serialization format and streaming protocol for RDF knowledge graphs. | `application/x-jelly-rdf`, `application/x-jelly-rdf-patch
 ` |
 | [Turtle](https://www.w3.org/TR/turtle/) | Terse RDF Triple Language. | `text/turtle`, `application/x-turtle` |
 | [TriG](https://www.w3.org/TR/trig/) | Plain text format for serializing named graphs and RDF Datasets. | `application/trig`, `application/x-trig` |
