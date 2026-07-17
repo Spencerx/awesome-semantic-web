@@ -796,6 +796,7 @@ OS - OpenSource
 - [OOPS! (Ontology Pitfall Scanner!)](http://oops.linkeddata.es/) - a web application to detect (semi)automatically 33 pitfalls or errors in ontologies. A web service is also provided.
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
 - [Mobi](https://mobi.inovexcorp.com) - [Open Source](https://github.com/inovexcorp/mobi) (with an optional Enterprise version) system for developing ontologies and skos ocabularies with native graph versioning that enables a git-inspired workflow. More info [here](https://inovexcorp.github.io/mobi-docs/).
+- [RDF Studio](https://rdf-studio.com) - Free web-based IDE with an advanced visual OWL/RDFS ontology editor, SHACL shapes validator and auto-generator, ontology maturity scoring, and schema-data drift detection.
 
 ## Reasoners
 
@@ -1136,6 +1137,7 @@ OS - OpenSource
 - [RdfGlance](https://github.com/xdobry/rdfglance) - Fast desktop RDF graph visualization and data viewer programmed in Rust
 - [G.V](https://gdotv.com) - ($/(F)) G dot V Graph Database Exploration and Visualization UI for SPARQL, Cypher and Gremlin
 - [SemSpect](https://www.semspect.de) - Graph exploration and data-driven no-code querying tool for Neo4j and RDF data
+- [RDF Studio](https://rdf-studio.com) - Free web-based IDE with interactive knowledge graph visualization, faceted search auto-generated from OWL ontologies, SPARQL 1.1 editor, and multi-database support for Oxigraph, GraphDB, and any SPARQL endpoint.
 
 ## Data Cube
 
