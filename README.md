@@ -1242,6 +1242,7 @@ OS - OpenSource
 * [rdfless](https://github.com/larsw/rdfless/) - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
 * [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
 * [Teamboard](https://termboard.com/start/) - Browser-based powerful and intuitive tool for creating and managing visual diagrams.
+* [rdf-label-cache](https://label-cache-demo.dhabgood.workers.dev/) - Globally distributed, edge-cached HTTP service that resolves human-readable labels for RDF IRIs (Cloudflare Worker + R2); ships a maintained public seed for RDF, RDFS, OWL, SKOS, DCTERMS, DCAT, and Schema.org.
 
 
 ## Integrations
